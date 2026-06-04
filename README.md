@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full-Stack Web Development Projects using Next.js & React**<br><br>👯 I’m looking to collaborate on **Open Source Projects, Web Applications, and Developer Tools**<br><br>🤝 I’m looking for help with **Advanced Backend Development and System Design**<br><br>🌱 I’m currently learning **Next.js, TypeScript, Cybersecurity, and Cloud Technologies**<br><br>💬 Ask me about **JavaScript, React, Next.js, Tailwind CSS, C++, and Web Development**<br><br>⚡ Fun fact: **I built a game as my Diploma Final Year Project and aspire to become a Game Developer.**<br>
+Engineering Student | Aspiring Game Developer 🎮 | Full-Stack Developer 💻 | Building with Next.js, React & TypeScript | Passionate about creating innovative digital experiences 🚀
+
 
 
 ## 🌐 Socials:
