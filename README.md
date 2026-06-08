@@ -1,6 +1,7 @@
 # 💫 About Me:
-Engineering Student | Aspiring Game Developer 🎮 | Full-Stack Developer 💻 | Building with Next.js, React & TypeScript | Passionate about creating innovative digital experiences 🚀
-
+Hi, I'm Ruchil S Parkar, an Engineering student and Full Stack Developer Intern with a passion for building web applications, designing user-friendly interfaces, and exploring emerging technologies. I enjoy turning ideas into practical solutions through code and continuously expanding my skills in software development.
+Currently, I'm focused on full-stack development, working with modern web technologies, and learning about AI-powered applications. I also have a strong interest in game development and aspire to create engaging digital experiences that combine creativity and technology.
+I'm always eager to learn, collaborate, and contribute to meaningful projects that help me grow as a developer.
 
 
 ## 🌐 Socials:
