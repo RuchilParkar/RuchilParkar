@@ -17,7 +17,3 @@ I'm always eager to learn, collaborate, and contribute to meaningful projects th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=RuchilParkar&icon=9&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
