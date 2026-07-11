@@ -1,27 +1,171 @@
-# 💫 About Me:
-Hi, I'm Ruchil Parkar, an Engineering student and Full Stack Developer Intern with a passion for building web applications, designing user-friendly interfaces, and exploring emerging technologies. I enjoy turning ideas into practical solutions through code and continuously expanding my skills in software development. Currently, I'm focused on full-stack development, working with modern web technologies, and learning about AI-powered applications. I also have a strong interest in game development and aspire to create engaging digital experiences that combine creativity and technology. I'm always eager to learn, collaborate, and contribute to meaningful projects that help me grow as a developer.<br><br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruchillllll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchilparkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ruchilparkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ruchil_parkar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Asael_Tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omparkar2005@gmail.com) 
-
-# 💻 Tech Stack:
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RuchilParkar&theme=holi&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RuchilParkar&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RuchilParkar&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RuchilParkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RuchilParkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=6C63FF&text=Ruchil%20Parkar&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Engineering%20Student&descAlignY=55" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Application+Builder;Next.js+%7C+React+%7C+Node.js;Building+Products+That+Matter" />
+</p>
+<p align="center">
+![](https://img.shields.io/badge/B.Tech-Electronic%20%26%20Computer%20Science-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Internships%20%26%20Full%20Time-7C3AED?style=for-the-badge)
+</p>
+<p align="center">
+<a href="https://ruchil-parkar.vercel.app/">Portfolio</a> •
+<a href="https://github.com/RuchilParkar">GitHub</a> •
+<a href="https://linkedin.com/in/ruchilparkar">LinkedIn</a> •
+<a href="mailto:omparkar2005@gmail.com">Email</a>
+</p>
+<p align="center">
+![](https://komarev.com/ghpvc/?username=RuchilParkar&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/RuchilParkar?style=for-the-badge&color=6C63FF)
+![](https://img.shields.io/github/stars/RuchilParkar?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
+</p>
 ---
-[![](https://komarev.com/ghpvc/?username=RuchilParkar&icon=9&color=2)](https://visitcount.itsvg.in)
+About Me
+I'm Ruchil Parkar, a B.Tech Electronic & Computer Science student focused on building production-ready software, AI-powered applications, and modern full-stack products.
+My interests include:
+Full Stack Engineering
+AI Applications & Automation
+Product Engineering
+Developer Experience
+Cloud-native Web Applications
+Open Source
+Open To
+Software Engineering Internships
+Full Stack Development
+AI Engineering
+Product Development
+Open Source Collaboration
+---
+Tech Stack
+Languages
+TypeScript • JavaScript • Python • Java • C • C++
+Frontend
+React • Next.js • Tailwind CSS • Framer Motion • React Native • Expo
+Backend & Databases
+Node.js • Express • Prisma • PostgreSQL • MongoDB • SQLite
+Cloud & DevOps
+Git • GitHub • Docker • Vercel • Cloudinary • Upstash Redis • Resend
+---
+AI / ML Expertise
+Domain	Proficiency	Details
+LLM Applications	Advanced	Gemini, Groq, OpenRouter
+Prompt Engineering	Advanced	Production prompts
+AI Automation	Advanced	Workflow automation
+Full Stack AI	Advanced	AI-powered SaaS
+---
+Featured Projects
+<details>
+<summary><b>HumanizeAI</b></summary>
+AI writing assistant transforming AI-generated text into natural writing.
+Category	Details
+Stack	Next.js, TypeScript, Tailwind
+Performance	Optimized
+Security	Validation + Rate Limiting
+Impact	Production-ready AI app
+</details>
+<details>
+<summary><b>CrochetCraft</b></summary>
+Luxury crochet e-commerce platform.
+Category	Details
+Stack	Next.js, Prisma, PostgreSQL
+Security	Auth.js, Redis
+Scale	Enterprise Architecture
+</details>
+<details>
+<summary><b>VaultX</b></summary>
+Offline-first password manager.
+Category	Details
+Stack	React Native, Expo
+Security	AES-GCM, Argon2
+Database	SQLite
+</details>
+<details>
+<summary><b>Memora</b></summary>
+AI knowledge vault for saving and searching learning resources.
+</details>
+---
+Experience
+Full Stack Developer Intern
+Branding Catalyst
+June 2026 – July 2026
+Developed production-ready web applications.
+Collaborated on backend APIs.
+Improved UI/UX.
+Worked with modern JavaScript ecosystem.
+Skills: Next.js · React · Node.js · MongoDB
+---
+Achievements
+Recognition	Details
+Engineering Student	B.Tech ECS
+Multiple AI Projects	HumanizeAI, Memora, VaultX
+Internship Experience	Full Stack Development
+---
+Certifications
+AWS
+Cloud Computing
+Cisco
+Networking Fundamentals
+Oracle
+Database Fundamentals
+NPTEL
+Ongoing Learning
+---
+Coding Profiles
+LeetCode
+HackerRank
+GeeksforGeeks
+CodeChef
+---
+GitHub Analytics
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RuchilParkar&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=RuchilParkar&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchilParkar&layout=compact&theme=tokyonight"/>
+</p>
+---
+GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RuchilParkar&theme=radical&no-frame=true)
+---
+Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=RuchilParkar&theme=tokyo-night)
+---
+Contribution Snake
+```text
+Configure using Platane/snk GitHub Action:
+https://github.com/Platane/snk
+```
+---
+Current Focus
+```yaml
+Learning:
+  - System Design
+  - AI Engineering
+  - Cloud
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building:
+  - CrochetCraft
+  - Memora
+
+Exploring:
+  - Agentic AI
+  - Product Engineering
+
+OpenTo:
+  - Software Engineering Internships
+  - Open Source
+```
+---
+Connect
+Portfolio: https://ruchil-parkar.vercel.app/
+LinkedIn: https://linkedin.com/in/ruchilparkar
+GitHub: https://github.com/RuchilParkar
+Email: omparkar2005@gmail.com
+---
+> "Build software that people remember—not just software that works."
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6C63FF"/>
+</p>
