@@ -1,375 +1,345 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6366F1&height=280&section=header&text=Ruchil%20Parkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20Product%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6366F1&height=250&section=header&text=Ruchil%20Parkar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%26%20Automation%20%7C%20Product%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+Intern;Engineering+Student;Building+AI-Powered+Products;Turning+Ideas+Into+Scalable+Code;Learning+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Science+Student;Full+Stack+Web+Developer;Exploring+Agentic+AI+%26+Automation;Building+Software+That+Solves+Problems" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://ruchil-parkar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Engineering%20Student-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-India%20(IST)-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/>
-
-<a href="https://ruchil-parkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ruchilparkar"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:omparkar2005@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/RuchilParkar"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ruchilparkar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/RuchilParkar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RuchilParkar&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/RuchilParkar?style=for-the-badge&color=6366f1&label=FOLLOWERS&labelColor=1a1a2e" />
-<img src="https://img.shields.io/github/stars/RuchilParkar?style=for-the-badge&color=a78bfa&label=STARS&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=RuchilParkar&style=flat-square&color=6366F1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RuchilParkar?style=flat-square&color=6366F1&label=Followers"/>
+<img src="https://img.shields.io/github/stars/RuchilParkar?style=flat-square&color=6366F1&label=Stars"/>
 
 </div>
 
-<br/>
+---
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
+## About Me
 
-<br/>
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-## 🪐 About Me
+I'm **Ruchil Parkar**, an Electronics and Computer Science engineering student interested in software development, artificial intelligence, and building practical technology solutions.
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+My work primarily revolves around **full-stack web development, AI-powered applications, workflow automation, and interactive software experiences**.
 
-I'm **Ruchil Parkar**, an Engineering student and **Full Stack Developer Intern** with a deep focus on building performant, production-grade software. I specialize in **full-stack web development**, and I'm actively expanding into **AI/ML-driven product engineering** — designing systems that are not just functional, but scalable, secure, and delightful to use.
+I enjoy taking ideas from concept to implementation — designing user interfaces, developing application logic, integrating APIs, working with databases, and experimenting with emerging technologies.
 
-My engineering philosophy centers on **product thinking + clean architecture**: I care as much about how a system scales and fails gracefully as I do about how it looks and feels. I enjoy working across the stack — from crafting intuitive UI layers to designing robust APIs and data models — and I'm continuously sharpening my instincts around **AI-powered applications, intelligent automation, and immersive interactive experiences**.
+I'm particularly interested in the intersection of software engineering and AI, where intelligent systems can make everyday applications more useful, efficient, and accessible.
 
-I thrive in fast-moving, high-ownership environments where I can ship real products, learn relentlessly, and collaborate with engineers who push me to level up.
-
-```yaml
-role: Full Stack Developer Intern
-focus: [Software Engineering, AI/ML, Product Engineering]
-mindset: Ship fast. Build clean. Scale smart.
-```
-
-<div align="left">
-
-**🎯 Open To:**
-
-![Software Engineering Roles](https://img.shields.io/badge/Software%20Engineering%20Roles-8B5CF6?style=flat-square&logoColor=white)
-![AI/ML Engineering](https://img.shields.io/badge/AI%2FML%20Engineering-6366F1?style=flat-square&logoColor=white)
-![Full Stack Internships](https://img.shields.io/badge/Full%20Stack%20Internships-7C3AED?style=flat-square&logoColor=white)
-![Open Source Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-A78BFA?style=flat-square&logoColor=white)
-![Freelance Product Builds](https://img.shields.io/badge/Freelance%20Product%20Builds-5B21B6?style=flat-square&logoColor=white)
-
-</div>
+**Currently focused on:**
+- Full Stack Web Development
+- Generative AI & Agentic AI
+- AI-powered applications and automation
+- Backend development and database design
+- UI/UX and product engineering
+- Computer Vision and Game Development
 
 <br clear="right"/>
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
+## Education
 
-<br/>
+**B.Tech – Electronics & Computer Science Engineering**
 
-## 🧬 Tech Stack
+St. John College of Engineering & Management  
+September 2024 – June 2027 (Expected)
 
-### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,kotlin" />
+**Diploma – Information Technology**
+
+Pravin Patil College of Diploma Engineering and Technology  
+2021 – 2024
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
 </p>
 
-### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,vite,flutter" />
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap"/>
 </p>
 
-### Backend & Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase,graphql" />
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,postgres,firebase"/>
 </p>
 
-### Cloud, DevOps & Tooling
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,gcp,azure,postman,figma" />
+### AI, Computer Vision & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,python"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-<br/>
+### Development Tools & Platforms
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,unreal"/>
+</p>
 
-<br/>
+---
 
-## 🧠 AI / ML Expertise
+## Featured Projects
 
-<div align="center">
+### 01. HumanizeAI
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning Foundations** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering fundamentals |
-| **Computer Vision** | ⭐⭐⭐☆☆ | OpenCV-based image processing pipelines, object detection experimentation |
-| **NLP & LLM Integration** | ⭐⭐⭐⭐☆ | Prompt engineering, LLM-powered app features, API-driven AI product integration |
-| **AI-Powered Product Development** | ⭐⭐⭐⭐☆ | Embedding AI features into full-stack apps — recommendation logic, intelligent automation |
-| **Data Handling & Analysis** | ⭐⭐⭐☆☆ | NumPy-based data manipulation, structured data pipelines for model input |
-| **MLOps Fundamentals** | ⭐⭐⭐☆☆ | Model versioning awareness, containerized deployment workflows via Docker |
+**AI-Powered Text Humanization Platform**
 
-</div>
+A web application designed to transform AI-generated content into more natural, human-like writing.
 
-<br/>
+**Key Features**
+- AI-powered text transformation.
+- Multiple AI provider integrations.
+- Groq as the primary AI provider with Gemini and OpenRouter fallbacks.
+- API-based backend architecture.
+- Request rate limiting using Upstash Redis.
+- Input validation using Zod.
+- Responsive Neo-Brutalist interface.
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
+**Technology Stack:** Next.js 15 · TypeScript · Groq · Gemini · OpenRouter · Upstash Redis · Tailwind CSS · Framer Motion
 
-<br/>
+[Live Application](https://humanize-ai-rp.vercel.app)
 
-## 🚀 Featured Projects
+---
 
-<details open>
-<summary><b>🧩 Contribix — Open Source Contribution Intelligence Platform</b></summary>
-<br/>
+### 02. NepTune Run
 
-Contribix is a TypeScript-powered platform designed to help developers discover, track, and optimize their open-source contribution journey. Built with a strong focus on type safety, clean modular architecture, and a scalable data layer that can support real-time contribution analytics.
+**Browser-Based 2D Endless Runner Game**
 
-| Category | Details |
+A browser game developed using native web technologies without external game engines or third-party game packages.
+
+**Key Features**
+- Custom HTML5 Canvas rendering.
+- Physics-based movement and collision detection.
+- Jump, double-jump and slide mechanics.
+- Progressive difficulty system.
+- Dynamic day-night cycle.
+- Parallax backgrounds and multiple environments.
+- Obstacles, enemies, collectibles and power-ups.
+- Web Audio API-based sound effects.
+
+**Technology Stack:** HTML5 · CSS3 · JavaScript · Canvas API · Web Audio API
+
+[Play Game](https://ruchilparkar.github.io/NepTune-Run/) · [Source Code](https://github.com/RuchilParkar/NepTune-Run)
+
+---
+
+### 03. AI Gmail Automation
+
+**Agentic AI & Workflow Automation**
+
+An AI-driven Gmail automation project developed during an Agentic AI internship.
+
+**Key Features**
+- Gmail API integration.
+- Automated email drafting workflows.
+- Email processing and cleanup automation.
+- AI-powered decision-making workflows.
+- Prompt engineering and LLM integration.
+- Workflow orchestration through n8n.
+
+**Technology Stack:** Python · n8n · Gmail API · Agentic AI · LLMs
+
+---
+
+### 04. Gesture Controlled Car
+
+**Computer Vision & Robotics**
+
+A gesture-controlled robotic vehicle that translates hand movements into wireless movement commands.
+
+**Key Features**
+- Real-time hand tracking.
+- Hand gesture recognition.
+- Computer vision using OpenCV and MediaPipe.
+- UDP-based wireless communication.
+- ESP8266 microcontroller integration.
+- Motor control using PWM and an H-bridge.
+
+**Technology Stack:** Python · OpenCV · MediaPipe · UDP · ESP8266 · Embedded Systems
+
+---
+
+### 05. APEX MAINTAIN
+
+**Smart Maintenance & Breakdown Management System**
+
+An intelligent maintenance management platform designed to streamline industrial breakdown reporting, maintenance operations, and equipment monitoring.
+
+**Key Features**
+- Breakdown and maintenance request management.
+- AI-assisted fault classification and diagnosis.
+- Technician assignment and dispatch workflows.
+- Spare parts and maintenance tracking.
+- Downtime, MTTR and MTBF monitoring.
+- Simulated sensor monitoring.
+
+**Technology Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · AI Integration
+
+---
+
+### 06. Unreal Virtual Art Gallery
+
+**Immersive 3D Environment**
+
+An interactive virtual gallery developed to explore real-time 3D environments and immersive user experiences.
+
+**Key Areas**
+- 3D environment development.
+- Interactive virtual spaces.
+- Lighting and rendering.
+- Blueprint-based interaction.
+- Unreal Engine environment design.
+
+**Technology Stack:** Unreal Engine 5 · Blueprints · C++
+
+---
+
+## Professional Experience & Development
+
+### Agentic AI Internship
+**IOFT | In collaboration with SJCEM**
+
+Worked on AI-based email automation using Agentic AI concepts and n8n workflows.
+
+- Explored LLM integration and prompt engineering.
+- Developed automated Gmail workflows.
+- Worked with API integrations and automation logic.
+- Explored practical applications of AI agents.
+
+### Robotics Internship
+**IOFT | In collaboration with SJCEM**
+
+Worked on a gesture-controlled robotic car using computer vision.
+
+- Implemented hand tracking using OpenCV and MediaPipe.
+- Integrated Python-based gesture recognition.
+- Established UDP communication with ESP8266.
+- Implemented wireless motor control.
+
+---
+
+## Areas of Interest
+
+| Domain | Focus |
 |---|---|
-| **Stack** | TypeScript, React, Node.js, REST APIs |
-| **Scale** | Actively developed — modular architecture designed for feature expansion |
-| **Performance** | Optimized rendering with component-level state isolation |
-| **Security** | Type-safe API contracts, input validation at the service boundary |
-| **Impact** | Streamlines contributor discovery and engagement for OSS ecosystems |
-| **Repository** | [github.com/RuchilParkar/Contribix](https://github.com/RuchilParkar/Contribix) |
+| Software Engineering | Application development and problem-solving |
+| Full Stack Development | Frontend, backend and database integration |
+| Artificial Intelligence | Generative AI, LLMs and AI applications |
+| Agentic AI | Intelligent agents and workflow automation |
+| Computer Vision | Image processing and gesture recognition |
+| UI/UX Design | Interface design and user experience |
+| Game Development | Interactive experiences and Unreal Engine |
+| Robotics | Embedded systems and hardware-software integration |
 
-Engineered with an emphasis on maintainability — strict typing across the codebase minimizes runtime errors while keeping the developer experience fast and predictable.
+---
 
-</details>
-
-<details>
-<summary><b>🚀 NepTune-Run — Procedural Space Endless Runner</b></summary>
-<br/>
-
-A space-themed endless runner engineered entirely with **HTML5 Canvas**, **Vanilla JavaScript**, and the **Web Audio API**. Features procedural level generation, dynamic environmental systems, an achievements engine, power-ups, and unlockable skins — all built without external game engine dependencies.
-
-| Category | Details |
-|---|---|
-| **Stack** | JavaScript, HTML5 Canvas, Web Audio API |
-| **Scale** | Fully procedural generation system with dynamic difficulty scaling |
-| **Performance** | Custom render loop optimization for consistent 60 FPS gameplay |
-| **Security** | Client-side state integrity checks to prevent score manipulation |
-| **Impact** | Demonstrates low-level graphics and audio engineering without frameworks |
-| **Repository** | [github.com/RuchilParkar/NepTune-Run](https://github.com/RuchilParkar/NepTune-Run) |
-
-Built to explore raw browser APIs at a deeper level — from canvas rendering pipelines to real-time audio synthesis — while designing a genuinely replayable core game loop.
-
-</details>
-
-<details>
-<summary><b>🗺️ Awesome Developer Learning Roadmaps — Curated Knowledge Hub</b></summary>
-<br/>
-
-A meticulously curated collection of the best developer learning roadmaps spanning programming languages, web development, mobile, DevOps, AI, cybersecurity, cloud, and game development — built to help developers structure their learning paths efficiently.
-
-| Category | Details |
-|---|---|
-| **Stack** | Markdown, Structured Documentation Architecture |
-| **Scale** | Multi-domain resource aggregation across 10+ engineering disciplines |
-| **Performance** | Lightweight, static, instantly accessible reference structure |
-| **Security** | Curated from vetted, community-trusted sources only |
-| **Impact** | Serves as a reference hub for structured, self-directed developer growth |
-| **Repository** | [github.com/RuchilParkar/Awesome-Developer-Learning-Roadmaps](https://github.com/RuchilParkar/Awesome-Developer-Learning-Roadmaps) |
-
-Reflects a strong personal commitment to continuous learning and giving back structured, high-signal resources to the developer community.
-
-</details>
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 💼 Experience
-
-### Full Stack Developer Intern
-**Engineering Program** | *Ongoing*
-
-Working across the full application lifecycle — from interface design to backend service architecture — while contributing to real, production-facing features. Focused on writing clean, testable code and collaborating within agile development cycles.
-
-**Scope of Work:**
-- Developed and maintained full-stack features across React-based frontends and Node.js backends
-- Collaborated on API design, data modeling, and integration of third-party services
-- Contributed to performance optimization and bug resolution across the application stack
-- Participated in code reviews and adopted version-controlled, CI-driven development workflows
-
-`React` `Node.js` `TypeScript` `REST APIs` `Git` `Agile Development`
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 🏆 Achievements
+## GitHub Statistics
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🦈 **Pull Shark** | Recognized for consistently merged, high-quality pull requests |
-| ⚡ **Quickdraw** | Awarded for rapid, decisive issue and PR resolution |
-| 🌱 **Active Open Source Contributor** | Sustained contributions across personal and community repositories |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RuchilParkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchilParkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RuchilParkar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
-<br/>
+---
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 📜 Certifications
-
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/NPTEL%20Certified-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 👨‍💻 Coding Profiles
+## Contribution Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/RuchilParkar"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/user/RuchilParkar"><img src="https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/RuchilParkar"><img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/RuchilParkar"><img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RuchilParkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
 
 </div>
 
-<br/>
+---
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Analytics
+## Contribution Snake
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RuchilParkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6366F1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchilParkar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchilParkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="100%" src="https://raw.githubusercontent.com/RuchilParkar/RuchilParkar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
-<br/>
+---
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RuchilParkar&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RuchilParkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RuchilParkar/RuchilParkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
-
-<br/>
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced AI/ML system design
-    - Scalable backend architecture patterns
-    - Cloud-native deployment strategies
+currently_learning:
+  - Advanced Full Stack Development
+  - Agentic AI and LLM Applications
+  - Backend Architecture
+  - API Design and Integration
 
-  building:
-    - AI-augmented full-stack products
-    - Open-source developer tooling
-    - Interactive, procedurally-generated experiences
+currently_exploring:
+  - AI-powered Software Products
+  - Workflow Automation with n8n
+  - Computer Vision
+  - Interactive 3D Development
 
-  exploring:
-    - LLM-powered application design
-    - MLOps and model deployment pipelines
-    - Systems design for high-scale applications
-
-  open_to:
-    - Software Engineering Internships
-    - AI/ML Engineering Opportunities
-    - Open Source Collaboration
-    - Freelance Product Development
+interested_in:
+  - Software Engineering Internships
+  - Full Stack Development
+  - AI Engineering
+  - Collaborative Projects
+  - Open Source Contributions
 ```
 
-<br/>
+---
 
-![](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square&logoColor=white)
+## Let's Connect
 
-<br/>
-
-## 🔗 Connect
+I'm interested in connecting with developers, engineers, designers, and technology enthusiasts to exchange ideas, collaborate on projects, and explore opportunities.
 
 <div align="center">
 
-<a href="mailto:omparkar2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ruchilparkar"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/RuchilParkar"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://ruchil-parkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ruchilparkar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://ruchil-parkar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RuchilParkar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Build with purpose. Learn continuously. Improve with every iteration."**
 
 <br/>
 
-<div align="center">
-
-*"Code is the closest thing we have to magic — write it with intention."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
 </div>
